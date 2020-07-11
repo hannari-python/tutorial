@@ -10,3 +10,4 @@ jupyter_server_proxy
 pandas
 numpy
 jupyter-dash
+pydeck
