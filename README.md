@@ -1,5 +1,5 @@
 # tutorial
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hannari-python/tutorial/binder)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hannari-python/tutorial/master)
 
 https://scrapbox.io/hannari-python/pyconjp_tutorial
 
