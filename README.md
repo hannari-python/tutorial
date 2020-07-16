@@ -27,6 +27,7 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 
 ## パート3 地理データと国勢調査
 データソース1 [統計GIS](https://www.e-stat.go.jp/gis/statmap-search?type=2)
+
 データソース2 [統計データ](https://www.e-stat.go.jp/gis/statmap-search?type=1)
 
 - 教師無し学習
