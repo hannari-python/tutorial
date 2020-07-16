@@ -14,7 +14,7 @@ RUN pip install jupyter && \
   pip install requests && \
   pip install flask && \
   pip install retrying && \
-  pip install ansi2html && \
+  pip install ansi2html
 
 ENV HOME=/tmp
 ENV MAPBOX_API_KEY=pk.eyJ1Ijoia296bzIiLCJhIjoiY2tjaWdrYjF4MGVrMDJ6cDVjYXV4b3R0byJ9.7lzJxJGlRxVkOj0TMS4W6A
