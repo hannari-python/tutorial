@@ -18,13 +18,16 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 - 教師あり学習
 
 ## パート2 家計調査
-データソース
+データソース候補1 https://www.stat.go.jp/data/kakei/longtime/csv/h-mon-a.csv
+データソース候補2 https://www.meti.go.jp/statistics/bigdata-statistics/bigdata_pj_2019/pos_gfk_intage.html
+
 - FILLME
 - 教師無し学習
 - 教師あり学習
 
 ## パート3 地理データと国勢調査
-データソース
-- FILLME
+データソース1 [統計GIS](https://www.e-stat.go.jp/gis/statmap-search?type=2)
+データソース2 [統計データ](https://www.e-stat.go.jp/gis/statmap-search?type=1)
+
 - 教師無し学習
 - 教師あり学習
