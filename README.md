@@ -22,7 +22,7 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 
 データソース候補2 https://www.meti.go.jp/statistics/bigdata-statistics/bigdata_pj_2019/pos_gfk_intage.html
 
-- 教師無し学習
+- 教師無し学習 (クラスタリング)
 - 教師あり学習
 
 ## パート3 地理データと国勢調査
