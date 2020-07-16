@@ -22,7 +22,6 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 
 データソース候補2 https://www.meti.go.jp/statistics/bigdata-statistics/bigdata_pj_2019/pos_gfk_intage.html
 
-- FILLME
 - 教師無し学習
 - 教師あり学習
 
@@ -30,6 +29,8 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 データソース1 [統計GIS](https://www.e-stat.go.jp/gis/statmap-search?type=2)
 
 データソース2 [統計データ](https://www.e-stat.go.jp/gis/statmap-search?type=1)
+
+- geopandas
 
 - 教師無し学習
 - 教師あり学習
