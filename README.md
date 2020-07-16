@@ -4,3 +4,16 @@
 https://scrapbox.io/hannari-python/pyconjp_tutorial
 
 https://scrapbox.io/hannari-python/pyconjp_tutorial_%E8%B2%BF%E6%98%93%E5%8F%8E%E6%94%AF
+
+
+## パート1 貿易収支
+データソース
+https://www.customs.go.jp/toukei/shinbun/trade-st/timeseries_202005.csv
+
+## パート2 家計調査
+データソース
+FILLME
+
+## パート3 地理データと国勢調査
+データソース
+FILLME
