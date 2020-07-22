@@ -22,6 +22,8 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 
 データソース候補2 https://www.meti.go.jp/statistics/bigdata-statistics/bigdata_pj_2019/pos_gfk_intage.html
 
+データソース候補3: 機械学習向け　[一般ミクロデータ](https://www.nstac.go.jp/micro/cgi-bin/micro.cgi)
+
 - 教師無し学習 (クラスタリング)
 - 教師あり学習
 
