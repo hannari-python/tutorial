@@ -24,6 +24,12 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 
 データソース候補3: 機械学習向け　[一般ミクロデータ](https://www.nstac.go.jp/micro/cgi-bin/micro.cgi)
 
+### データのファイル名と出典記載
+
+- `data/ippan-microdata/ippan_2009zensho.zip`, 独立行政法人 統計センター 一般用ミクロデータ 平成21年全国消費実態調査 （十大費目）https://www.nstac.go.jp/services/ippan-microdata.html
+- `data/ippan-microdata/ippan_2009zensho_s.zip`, 独立行政法人 統計センター 一般用ミクロデータ 平成21年全国消費実態調査 （詳細品目）https://www.nstac.go.jp/services/ippan-microdata.html
+- `data/ippan-microdata/ippan_shugyou.zip`, 独立行政法人 統計センター 一般用ミクロデータ 就業構造基本調査 （平成４年～24年）https://www.nstac.go.jp/services/ippan-microdata.html
+
 - 教師無し学習 (クラスタリング)
 - 教師あり学習
 
