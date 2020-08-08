@@ -34,4 +34,5 @@ RUN adduser --disabled-password \
 
 USER root
 RUN chown -R ${NB_UID} ${HOME}
+RUN apt-get update && apt-get install wget -y
 USER ${NB_USER}
