@@ -17,7 +17,7 @@ RUN pip install jupyter && \
   pip install ansi2html
 
 ENV HOME=/tmp
-ENV MAPBOX_API_KEY=pk.eyJ1Ijoia296bzIiLCJhIjoiY2tjaWdrYjF4MGVrMDJ6cDVjYXV4b3R0byJ9.7lzJxJGlRxVkOj0TMS4W6A
+
 WORKDIR ${HOME}
 COPY ./ .
 
