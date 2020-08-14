@@ -25,9 +25,11 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 - `data/ippan-microdata/ippan_shugyou.zip`, 独立行政法人 統計センター 一般用ミクロデータ 就業構造基本調査 （平成４年～24年）https://www.nstac.go.jp/services/ippan-microdata.html
 
 ## パート3 地理データ
-データソース1 [地価データ](https://data.city.osaka.lg.jp/data/dataset/data-00000065)
+データソース1 [地価データ](https://data.city.osaka.lg.jp/data/dataset/data-00000065)  
 
-データソース2 [犯罪データ](https://www.police.pref.osaka.lg.jp/seikatsu/9290.html)
+データソース2 [犯罪データ](https://www.police.pref.osaka.lg.jp/seikatsu/9290.html)  
+
+データソース3 [全国市区町村界データ](https://www.esrij.com/products/japan-shp/)  
 
 - geopandas
 - pydeck
