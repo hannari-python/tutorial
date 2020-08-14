@@ -32,4 +32,5 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 データソース3 [全国市区町村界データ](https://www.esrij.com/products/japan-shp/)  
 
 - geopandas
+- shapely  
 - pydeck
