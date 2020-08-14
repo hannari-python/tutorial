@@ -1,3 +1,4 @@
 jupyter-dash
 geopandas
 pydeck
+lxml
