@@ -28,7 +28,7 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 データソース1 [地価データ](https://data.city.osaka.lg.jp/data/dataset/data-00000065): 地価調査_平成30年_100ｍ_相続税路線価_データベースファイル（CSV）, 
 `data/osakadata/tikatyousa_2018_100m_souzokurosenka.*` 
 
-データソース2 [国土交通省国土数値情報ダウンロードサイト](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P34.html): [国土数値情報 市区町村役場データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P34.html), 大阪 	世界測地系 平成26年 0.01MB 	P34-14_27_GML.zip, `data/P34-14_27_GML/*  `
+データソース2 [国土交通省国土数値情報ダウンロードサイト](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P34.html): [国土数値情報 市区町村役場データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P34.html), 大阪 	世界測地系 平成26年 0.01MB 	P34-14_27_GML.zip, `data/osakadata/P34-14_27_GML/*  `
 
 データソース3 [犯罪データ](https://www.police.pref.osaka.lg.jp/seikatsu/9290.html): 大阪府警察 犯罪オープンデータサイト (https://www.police.pref.osaka.lg.jp/seikatsu/9290.html), 平成30年中の犯罪発生情報の中の自転車盗 (CSVファイル: 3.1MB), `data/osakadata/osaka_2018zitensyatou.csv`  
 
