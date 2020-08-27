@@ -1,12 +1,15 @@
 # tutorial
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hannari-python/tutorial/master)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hannari-python/tutorial/blob/master)
+
 https://scrapbox.io/hannari-python/pyconjp_tutorial
 
 https://scrapbox.io/hannari-python/pyconjp_tutorial_%E8%B2%BF%E6%98%93%E5%8F%8E%E6%94%AF
 
 
 ## パート1 貿易収支
+
 データソース(シンプル版)
 https://www.customs.go.jp/toukei/shinbun/trade-st/timeseries_202005.csv
 
