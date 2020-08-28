@@ -2,3 +2,5 @@ jupyter-dash
 geopandas
 pydeck
 lxml
+joypy
+scikit-learn
