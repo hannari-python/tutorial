@@ -13,6 +13,16 @@ Thank you for the Binder project.
 
 PyConJP 2020のページは[こちら](https://pycon.jp/2020/tutorial/#event-two:~:text=Bot%E3%81%A8%E3%80%81Slack%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%81%A8%E3%81%AE%E5%8F%8C%E6%96%B9%E5%90%91%E9%80%9A%E4%BF%A1%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E4%B8%80%E6%99%82%E7%9A%84%E3%81%AB%E5%A4%96%E9%83%A8%E3%81%B8%E5%85%AC%E9%96%8B%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A7%E3%81%99%E3%80%82-,%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%80%81Python%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90)
 
+## チュートリアルで使用するノートブック
+
+* 第一部 [貿易収支データ分析](https://github.com/hannari-python/tutorial/blob/master/trade_balance/trade_balance_prepro_and_visualization_and_clustering.ipynb)
+* 第二部 [家計調査データ分析](https://github.com/hannari-python/tutorial/blob/master/family_budget/pyconTutorial_family_budget.ipynb)
+* 第三部 [地理データ分析](https://github.com/hannari-python/tutorial/blob/master/land_assessments/land_assessments.ipynb)
+
+## タイムテーブル
+
+[こちらのgithub issue](https://github.com/hannari-python/tutorial/issues/20)をご参照ください。
+
 ## ライセンス (ノートブック)
 
 ノートブックのライセンスは [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja) です。
