@@ -7,6 +7,8 @@ Thank you for the Binder project.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hannari-python/tutorial/blob/master)
 
+[イントロダクションのスライド](https://docs.google.com/presentation/d/1-J3urYC6e3IY30xduhTDnBEWphTbcJ2CRvHhV6fwNBw)
+
 ## このチュートリアルはどういうものか?
 
 このチュートリアルでは、世の中の動向を可視化、予測するために必要なデータ分析の知識を習得できます。貿易収支や家計調査、境界データと国勢調査などのオープンデータをもとに、分析できるように前処理を行い、作ったデータをPlotlyとPydeckを使って可視化し、DashやStreamlitを使ってダッシュボードを作り、scikit-learnを使って機械学習を行うといった、一連のデータ分析をGoogle ColaboratoryやBinderを使用して体験できます。
@@ -35,10 +37,7 @@ CCライセンスについては、[クリエイティブ・コモンズ・ラ�
 
 ### パート1 貿易収支
 
-データソース(シンプル版)
-https://www.customs.go.jp/toukei/shinbun/trade-st/timeseries_202005.csv
-
-データソース(大量版)
+データソース
 https://www.kaggle.com/zanjibar/japan-trade-statistics
 
 ### パート2 家計調査
@@ -58,8 +57,3 @@ https://www.kaggle.com/zanjibar/japan-trade-statistics
 
 
 データソース4 [国土交通省国土数値情報ダウンロードサイト](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-v2_4.html#prefecture27): [国土数値情報　行政区域データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-v2_4.html#prefecture27), 大阪 世界測地系 平成30年 2.43MB  N03-180101_27_GML.zip, `data/osakadata/N03-180101_27_GML/*`   
-
-## scrapbox のメモ書きへのリンク
-https://scrapbox.io/hannari-python/pyconjp_tutorial
-
-https://scrapbox.io/hannari-python/pyconjp_tutorial_%E8%B2%BF%E6%98%93%E5%8F%8E%E6%94%AF
