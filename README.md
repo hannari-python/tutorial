@@ -19,7 +19,7 @@ PyConJP 2020のページは[こちら](https://pycon.jp/2020/tutorial/#event-two
 * 第二部 [家計調査データ分析](https://github.com/hannari-python/tutorial/blob/master/family_budget/pyconTutorial_family_budget.ipynb)
 * 第三部 [地理データ分析](https://github.com/hannari-python/tutorial/blob/master/land_assessments/land_assessments.ipynb)
 
-## タイムテーブル
+## チュートリアルのタイムテーブル
 
 [こちらのgithub issue](https://github.com/hannari-python/tutorial/issues/20)をご参照ください。
 
