@@ -4,3 +4,4 @@ pydeck
 lxml
 joypy
 scikit-learn
+jupyter_server_proxy
