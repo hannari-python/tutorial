@@ -18,7 +18,7 @@ PyConJP 2020のページは[こちら](https://pycon.jp/2020/tutorial/#event-two
 ## チュートリアルで使用するノートブック
 
 * 第一部 [貿易収支データ分析](https://github.com/hannari-python/tutorial/blob/master/trade_balance/trade_balance_prepro_and_visualization_and_clustering.ipynb)
-* 第二部 [家計調査データ分析](https://github.com/hannari-python/tutorial/blob/master/family_budget/pyconTutorial_family_budget.ipynb)
+* 第二部 [家計調査データ分析](https://github.com/hannari-python/tutorial/blob/master/family_budget/family_budget.ipynb)
 * 第三部 [地理データ分析](https://github.com/hannari-python/tutorial/blob/master/land_assessments/land_assessments.ipynb)
 
 ## チュートリアルのタイムテーブル
